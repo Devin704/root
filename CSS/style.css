@@ -30,7 +30,7 @@ li a {
   text-decoration: none;
 }
 
-li a.active {
+.active {
   background-color: yellow;
 }
 img {
@@ -45,6 +45,7 @@ img {
 }
 h1{
 	color: white;
-	
-	
 }
+li a:hover {
+  background-color: yellow;
+  color: white;
